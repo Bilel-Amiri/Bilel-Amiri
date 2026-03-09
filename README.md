@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" height="40" />
 </h1>
 
-<h3 align="center">Software Engineer | .NET & Angular Specialist | Microservices Architect</h3>
+<h3 align="center">Software Engineer | .NET & Angular Specialist </h3>
 
 ![](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
