@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Bilel-Amiri.Bilel-Amiri)
 
-I'm a Software Engineering graduate passionate about building impactful applications — currently crafting solutions with .NET Core, Angular, and Python.
+I'm a Software Engineering graduate passionate about building impactful applications — currently crafting solutions with .NET Core and Angular.
 
 📌 Building banking apps and real-time platforms. ✅ Turning ideas into scalable, real-world solutions.
 
